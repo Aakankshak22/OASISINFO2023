@@ -1,0 +1,5 @@
+This repo consists of Python code pre-coded in Google Collab by Aakanksha Kumari.
+The repo contains projects for data science internship:
+1. IRIS FLOWER CLASSIFICATION
+2. UNEMPLOYMENT ANALYSIS WITH PYTHON
+3. EMAIL SPAM DETECTION WITH MACHINE LEARNING
